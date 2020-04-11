@@ -1,0 +1,15 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\jhonny\Documents\C#\calculadora\calculadora\obj\x86\Debug\calculadora.csprojResolveAssemblyReference.cache

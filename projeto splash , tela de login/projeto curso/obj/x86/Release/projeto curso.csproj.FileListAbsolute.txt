@@ -1,0 +1,5 @@
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Release\projeto_curso.Form1.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Release\projeto_curso.login.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Release\projeto_curso.principal.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Release\projeto_curso.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Release\projeto curso.csproj.GenerateResource.Cache

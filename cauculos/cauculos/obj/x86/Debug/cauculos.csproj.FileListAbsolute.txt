@@ -1,0 +1,5 @@
+C:\Users\jhonny\Documents\C#\cauculos\cauculos\bin\Debug\cauculos.exe
+C:\Users\jhonny\Documents\C#\cauculos\cauculos\bin\Debug\cauculos.pdb
+C:\Users\jhonny\Documents\C#\cauculos\cauculos\obj\x86\Debug\cauculos.exe
+C:\Users\jhonny\Documents\C#\cauculos\cauculos\obj\x86\Debug\cauculos.pdb
+C:\Users\jhonny\Documents\C#\cauculos\cauculos\obj\x86\Debug\cauculos.csprojResolveAssemblyReference.cache

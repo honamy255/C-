@@ -1,0 +1,10 @@
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\bin\Debug\bdcliente.sdf
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\bin\Debug\cadastro.exe
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\bin\Debug\cadastro.pdb
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.Form1.resources
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.csproj.GenerateResource.Cache
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.exe
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.pdb
+C:\Users\jhonny\Documents\C#\cadastro\cadastro\obj\x86\Debug\cadastro.csprojResolveAssemblyReference.cache

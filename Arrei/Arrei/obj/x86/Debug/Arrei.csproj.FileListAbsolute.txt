@@ -1,0 +1,9 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\Arrei\bin\Debug\Arrei.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\Arrei\bin\Debug\Arrei.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\Arrei\obj\x86\Debug\Arrei.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\Arrei\obj\x86\Debug\Arrei.pdb
+C:\Users\jhonny\Documents\C#\Arrei\Arrei\obj\x86\Debug\Arrei.exe
+C:\Users\jhonny\Documents\C#\Arrei\Arrei\obj\x86\Debug\Arrei.pdb
+C:\Users\jhonny\Documents\C#\Arrei\Arrei\bin\Debug\Arrei.exe
+C:\Users\jhonny\Documents\C#\Arrei\Arrei\bin\Debug\Arrei.pdb
+C:\Users\jhonny\Documents\C#\Arrei\Arrei\obj\x86\Debug\Arrei.csprojResolveAssemblyReference.cache

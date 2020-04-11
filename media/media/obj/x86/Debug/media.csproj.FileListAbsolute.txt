@@ -1,0 +1,8 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\media\bin\Debug\media.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\media\bin\Debug\media.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\media\obj\x86\Debug\media.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\media\obj\x86\Debug\media.pdb
+C:\Users\jhonny\Documents\C#\media\media\obj\x86\Debug\media.exe
+C:\Users\jhonny\Documents\C#\media\media\obj\x86\Debug\media.pdb
+C:\Users\jhonny\Documents\C#\media\media\bin\Debug\media.exe
+C:\Users\jhonny\Documents\C#\media\media\bin\Debug\media.pdb

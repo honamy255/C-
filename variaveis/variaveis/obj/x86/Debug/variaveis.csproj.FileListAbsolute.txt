@@ -1,0 +1,6 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\variaveis\bin\Debug\variaveis.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\variaveis\bin\Debug\variaveis.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\variaveis\obj\x86\Debug\variaveis.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\variaveis\obj\x86\Debug\variaveis.pdb
+C:\Users\jhonny\Documents\C#\variaveis\variaveis\obj\x86\Debug\variaveis.exe
+C:\Users\jhonny\Documents\C#\variaveis\variaveis\obj\x86\Debug\variaveis.pdb

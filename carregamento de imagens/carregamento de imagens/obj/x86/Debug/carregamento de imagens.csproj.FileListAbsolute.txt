@@ -1,0 +1,14 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\bin\Debug\carregamento de imagens.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\bin\Debug\carregamento de imagens.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\obj\x86\Debug\carregamento_de_imagens.imagem.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\obj\x86\Debug\carregamento_de_imagens.Properties.Resources.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\obj\x86\Debug\carregamento de imagens.csproj.GenerateResource.Cache
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\obj\x86\Debug\carregamento de imagens.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\carregamento de imagens\obj\x86\Debug\carregamento de imagens.pdb
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\obj\x86\Debug\carregamento de imagens.exe
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\obj\x86\Debug\carregamento de imagens.pdb
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\bin\Debug\carregamento de imagens.exe
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\bin\Debug\carregamento de imagens.pdb
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\obj\x86\Debug\carregamento_de_imagens.imagem.resources
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\obj\x86\Debug\carregamento_de_imagens.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\carregamento de imagens\carregamento de imagens\obj\x86\Debug\carregamento de imagens.csproj.GenerateResource.Cache

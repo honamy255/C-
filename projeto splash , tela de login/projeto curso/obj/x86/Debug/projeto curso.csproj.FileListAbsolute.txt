@@ -1,0 +1,26 @@
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\bin\Debug\projeto curso.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\bin\Debug\projeto curso.pdb
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\obj\x86\Debug\projeto_curso.Form1.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\obj\x86\Debug\projeto_curso.Properties.Resources.resources
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\obj\x86\Debug\projeto curso.csproj.GenerateResource.Cache
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\obj\x86\Debug\projeto curso.exe
+C:\Users\jhonny\AppData\Local\Temporary Projects\projeto curso\obj\x86\Debug\projeto curso.pdb
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto curso.exe
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto curso.pdb
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\bin\Debug\projeto curso.exe
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\bin\Debug\projeto curso.pdb
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto_curso.Form1.resources
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto_curso.login.resources
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto_curso.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto curso.csproj.GenerateResource.Cache
+C:\Users\jhonny\Documents\C#\projeto curso\projeto curso\obj\x86\Debug\projeto_curso.principal.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto curso.exe
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\bin\Debug\projeto curso.exe
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\bin\Debug\projeto curso.pdb
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto curso.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto_curso.Form1.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto_curso.login.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto_curso.principal.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto_curso.Properties.Resources.resources
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto curso.csproj.GenerateResource.Cache
+C:\Users\jhonny\Documents\C#\projeto splash , tela de login\projeto curso\obj\x86\Debug\projeto curso.pdb
